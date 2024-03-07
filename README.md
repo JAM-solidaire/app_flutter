@@ -1,4 +1,4 @@
-# Jam Solidaire
+# DEV-JAM
 
 A new Flutter project.
 

@@ -45,7 +45,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="jamsolidaire" android:host="jamsolidaire.com" />
+                <data android:scheme="devjam" android:host="devjam.com" />
             </intent-filter>
 
         </activity>

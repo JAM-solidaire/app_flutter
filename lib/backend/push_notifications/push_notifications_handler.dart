@@ -162,6 +162,7 @@ final parametersBuilderMap =
               data, 'advantageDetails', AdvantageRecord.fromSnapshot),
         },
       ),
+  'Test': ParameterData.none(),
 };
 
 Map<String, dynamic> getInitialParameterData(Map<String, dynamic> data) {

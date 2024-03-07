@@ -32,3 +32,4 @@ export '/onboarding/sign_up_3/sign_up3_widget.dart' show SignUp3Widget;
 export '/onboarding/sign_up_4/sign_up4_widget.dart' show SignUp4Widget;
 export '/pages/advantage_page/advantage_page_widget.dart'
     show AdvantagePageWidget;
+export '/profile/test/test_widget.dart' show TestWidget;
