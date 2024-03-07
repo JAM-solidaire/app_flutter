@@ -369,8 +369,7 @@ class _SignUpWidgetState extends State<SignUpWidget> {
                                 context.pushNamed('CGUU');
                               },
                               child: RichText(
-                                textScaleFactor:
-                                    MediaQuery.of(context).textScaleFactor,
+                                textScaler: MediaQuery.of(context).textScaler,
                                 text: TextSpan(
                                   children: [
                                     TextSpan(
