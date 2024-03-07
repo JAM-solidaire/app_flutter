@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565986806801",
+    "project_id": "jam-solidaire-dpkmcc",
+    "storage_bucket": "jam-solidaire-dpkmcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565986806801:android:3504d856010e91045175b0",
+        "android_client_info": {
+          "package_name": "com.mycompany.jamsolidaire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0fi5ayVoY8fwvtfe1uMaf1zY5aa8juw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
