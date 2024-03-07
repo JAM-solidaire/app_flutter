@@ -80,7 +80,7 @@ class _TestWidgetState extends State<TestWidget> {
                 onPressed: () {
                   print('Button pressed ...');
                 },
-                text: 'Button',
+                text: 'Change\n',
                 options: FFButtonOptions(
                   height: 40.0,
                   padding: const EdgeInsetsDirectional.fromSTEB(24.0, 0.0, 24.0, 0.0),
