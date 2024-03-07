@@ -233,6 +233,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
             advantageDetails:
                 params.getParam('advantageDetails', ParamType.Document),
           ),
+        ),
+        FFRoute(
+          name: 'Test',
+          path: '/test',
+          builder: (context, params) => const TestWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );
